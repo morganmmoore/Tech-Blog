@@ -1,0 +1,27 @@
+[
+    {
+        "title": "THIS COMPANY IS MAKING DIGITAL HUMANS TO SERVE THE METAVERSE",
+        "content": "A digital human created by Auckland-based tech company Soul Machines. She is designed to have a short conversation with visitors about herself",
+        "user_id": 1
+    },
+    {
+        "title": "Apple’s MacBook Pro is a GPU-shaped warning to Nvidia and AMD",
+        "content": "The new MacBook Pros with M1 Pro and M1 Max offer a first glimpse at how well Apple’s M1 chips can scale to provide raw performance that rivals the discrete graphics cards we typically find inside Windows-powered laptops.",
+        "user_id": 2
+    },
+    {
+        "title": "EU opens formal investigation into Nvidia’s Arm acquisition",
+        "content": "The European Commission has opened a formal competition investigation into Nvidia’s acquisition of chip designer Arm. The deal, which would see Nvidia purchase the UK-based company from SoftBank for $40 billion, was announced in September 2020.",
+        "user_id": 3
+    },
+    {
+        "title": "Adobe has built a deepfake tool, but it doesn’t know what to do with it",
+        "content": "Project Morpheus is basically a video version of the company’s Neural Filters, introduced in Photoshop last year. These filters use machine learning to adjust a subject’s appearance, tweaking things like their age, hair color, and facial expression (to change a look of surprise into one of anger, for example).",
+        "user_id": 4
+    },
+    {
+        "title": "Amazon updates Echo Frames to make it easier to send texts and make calls",
+        "content": "Amazon’s Echo Frames, the Alexa-enabled eyeglasses equipped with tiny speakers and microphones, are getting updated with new quality-of-life features like the ability to automatically wake up from power-saving sleep mode when you put them on your face, and a shortcut to quickly phone a contact of your choosing.",
+        "user_id": 5
+    }
+]

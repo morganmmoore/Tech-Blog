@@ -1,0 +1,52 @@
+
+
+.header {
+    font-size: 50px;
+    margin: 0;
+    padding: 10px 0px 10px 10px;
+    background-color: teal;
+    color: white;
+}
+
+.navbar {
+    font-size: 20px;
+    background-color: teal;
+    padding: 10px 0px 10px 10px;
+}
+
+a {
+    color: white;
+    text-decoration: dotted;
+    padding-right: 15px;
+}
+
+.loginCont {
+    font-size: 20px;
+    text-align: center;
+}
+
+.card {
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid teal;
+    background-color: teal;
+    color: white;
+}
+
+.post-list {
+    border-top: 1px solid teal;
+    background-color: teal;
+    width: 70%;
+    margin: auto;
+    font-size: 30px;
+}
+
+.current-posts {
+    padding-top: 35px;
+    border: 10px solid white;
+}
+
+.current-header {
+    color: white;
+}

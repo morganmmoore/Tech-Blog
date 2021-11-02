@@ -1,4 +1,4 @@
-const loginFormHandler = async () => {
+const logoutFormHandler = async () => {
   
   const response = await fetch('/api/users/logout', {
     method: 'POST',
@@ -13,4 +13,4 @@ const loginFormHandler = async () => {
 
 document
   .querySelector('#logout')
-  .addEventListener('click', logout);
+  .addEventListener('click', logoutFormHandler);
